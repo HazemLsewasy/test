@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TempFileMetainfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Vector.ITE.TempFileRepository.MetainfoModel">
+  <FileFormatVersion xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">1</FileFormatVersion>
+  <TempFileMetainfo xmlns:d2p1="http://schemas.datacontract.org/2004/07/Vector.ITE.TempFileRepository.MetainfoModel.Entities" z:Id="2">
+    <_p z:Ref="1" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    <d2p1:FileSources z:Id="3">
+      <Content z:Id="4" z:Size="9" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">
+        <d2p1:FileSource z:Id="5" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Id="6">4.0.50.0</d2p1:AppVersion>
+          <d2p1:Extension z:Id="7">.</d2p1:Extension>
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.0977089+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>70</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="8">m1a2o2vbh27d-TSV</d2p1:PersistencyKey>
+          <d2p1:Crc>1158085051</d2p1:Crc>
+          <d2p1:SourceFile z:Id="9">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\TestConfiguration\PythonBasic.vtsoproj</d2p1:SourceFile>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="10" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.1204695+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>74</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="11">m1a2o2vbh27d-MTSV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="12">
+            <Content z:Id="13" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="14">
+                <_p z:Ref="12" i:nil="true" />
+                <d2p1:FullFilePath z:Id="15">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\TestConfiguration\obj_PythonBasic\m1a2o2vbh27d-TSV.</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2023-08-30T16:07:43.0977089+03:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="10" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="16" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.1884595+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>11437</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="17">kagcnfe8bp4l-CSV</d2p1:PersistencyKey>
+          <d2p1:Crc>3685924538</d2p1:Crc>
+          <d2p1:SourceFile z:Ref="9" i:nil="true" />
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="18" i:type="d2p1:DatabaseTlbFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:48.5066498+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>11264</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="19">0f2f82sf19ih#DB</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescription z:Id="20">
+            <_p z:Ref="18" i:nil="true" />
+            <d2p1:FullFilePath z:Id="21">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\CANdb\easy.dbc</d2p1:FullFilePath>
+            <d2p1:SourceModificationTime>2017-03-29T11:30:40+02:00</d2p1:SourceModificationTime>
+          </d2p1:FileSourceDescription>
+          <d2p1:IgnoredNodes z:Id="22"></d2p1:IgnoredNodes>
+          <d2p1:NamespaceMode>0</d2p1:NamespaceMode>
+          <d2p1:Networks xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="23" z:Size="1">
+            <d6p1:string z:Id="24">easy</d6p1:string>
+          </d2p1:Networks>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="25" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Id="26">.vvarprop</d2p1:Extension>
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.6584862+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>266</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="27">TU_Indep=VP</d2p1:PersistencyKey>
+          <d2p1:Crc>3110147276</d2p1:Crc>
+          <d2p1:SourceFile z:Ref="22" i:nil="true" />
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="28" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="26" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.7017348+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>266</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="29">a0igc8johviv=VP</d2p1:PersistencyKey>
+          <d2p1:Crc>3110147276</d2p1:Crc>
+          <d2p1:SourceFile z:Ref="22" i:nil="true" />
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="30" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:43.9287637+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>60</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="31">a0igc8johviv~3-0</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="32">
+            <Content z:Id="33" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="34">
+                <_p z:Ref="32" i:nil="true" />
+                <d2p1:FullFilePath z:Id="35">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\TestConfiguration\EasyTest\Tests.vtt</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2017-03-29T11:30:40+02:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="30" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="36" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:49.0858215+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>3072</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="37">m1a2o2vbh27d#SV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="38">
+            <Content z:Id="39" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="40">
+                <_p z:Ref="38" i:nil="true" />
+                <d2p1:FullFilePath z:Id="41">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\TestConfiguration\obj_PythonBasic\m1a2o2vbh27d-MTSV</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2023-08-30T16:07:43.1204695+03:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="36" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="42" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2023-08-30T16:07:49.5587983+03:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>27136</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="43">kagcnfe8bp4l#SV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="44">
+            <Content z:Id="45" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="46">
+                <_p z:Ref="44" i:nil="true" />
+                <d2p1:FullFilePath z:Id="47">C:\Users\Public\Documents\Vector\CANoe\Sample Configurations 12.0.77\Programming\Python\CANoeConfig\TestConfiguration\obj_PythonBasic\kagcnfe8bp4l-CSV</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2023-08-30T16:07:43.1884595+03:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="42" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+      </Content>
+      <_p z:Ref="2" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    </d2p1:FileSources>
+    <d2p1:TempFileMappings z:Id="48">
+      <Content z:Id="49" z:Size="3" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">
+        <d2p1:TempFileMapping z:Id="50">
+          <_p z:Ref="48" i:nil="true" />
+          <d2p1:FileSource z:Ref="18" i:nil="true" />
+          <d2p1:MappingValue z:Id="51">easy</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+        <d2p1:TempFileMapping z:Id="52">
+          <_p z:Ref="48" i:nil="true" />
+          <d2p1:FileSource z:Ref="36" i:nil="true" />
+          <d2p1:MappingValue z:Id="53">_TestSysVars</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+        <d2p1:TempFileMapping z:Id="54">
+          <_p z:Ref="48" i:nil="true" />
+          <d2p1:FileSource z:Ref="42" i:nil="true" />
+          <d2p1:MappingValue z:Id="55">_cfg_sysvars</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+      </Content>
+      <_p z:Ref="2" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    </d2p1:TempFileMappings>
+  </TempFileMetainfo>
+</TempFileMetainfo>
